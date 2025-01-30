@@ -21,7 +21,6 @@
 
             if (AreMatricesEqual(matrix1, matrix2))
             {
-                Console.WriteLine("Матрицы равны.");
             }
             else
             {
